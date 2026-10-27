@@ -16,4 +16,17 @@ Chronos Edge — Anime RPG backend development, including player data, inventory
 
 Apex Motorsport — F1-inspired racing simulator project focused on multiplayer racing and vehicle systems.
 
+
+## Featured Work
+
+### Chronos Edge — Backend Systems Showcase
+
+Developed and documented Roblox Luau backend systems for player-data management, inventory operations, and item definitions.
+
+**Technologies:** Roblox Studio, Luau, DataStoreService
+
+[View the complete backend showcase](PortfolioREADME.md)
+
+*Project in development. The showcase contains selected backend modules, not a complete playable game.*
+
 Contact: Roblox Profile -- @SpyderSasike
